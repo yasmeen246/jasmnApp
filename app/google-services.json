@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "451212574447",
+    "firebase_url": "https://jasmnapp.firebaseio.com",
+    "project_id": "jasmnapp",
+    "storage_bucket": "jasmnapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451212574447:android:96f432aec14afd2a",
+        "android_client_info": {
+          "package_name": "com.example.jasmn.jasmnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451212574447-o311fra10p8oeoln2d3ckiipog3tdqpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jasmn.jasmnapp",
+            "certificate_hash": "7ad25cd2e1f32d311fa8d251d0276bc976b0666f"
+          }
+        },
+        {
+          "client_id": "451212574447-odnfsdrqqqosmmnmj9shbgujkg47i6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwoyYC7pUEhGrVoAVhWrZNAAbdUNyPYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451212574447-odnfsdrqqqosmmnmj9shbgujkg47i6e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

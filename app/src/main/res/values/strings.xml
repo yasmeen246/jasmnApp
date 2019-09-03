@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">jasmnApp</string>
+    <string name="creat_new_account">creat new account</string>
+
+    <string name="enter_name">enter name</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="log_out">log out</string>
+    <string name="all_users">All Users</string>
+    <string name="account_setting">account setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status_you_want">status you want</string>
+</resources>
